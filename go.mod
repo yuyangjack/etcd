@@ -1,3 +1,3 @@
-module github.com/vbhledger-blockchain/vbhledger/vendor/go.etcd.io/etcd
+module github.com/yuyangjack/etcd
 
 go 1.12
